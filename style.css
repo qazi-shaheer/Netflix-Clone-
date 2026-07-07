@@ -112,6 +112,7 @@ span {
 @media(max-width:500px) {
     .icon {
         display: block;
+        font-size: 25px;
     }
 
     .menu {
@@ -126,4 +127,3 @@ span {
         font-size: 15px;
         gap: 15px;
     }
-}
